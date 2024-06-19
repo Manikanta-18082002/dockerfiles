@@ -5,4 +5,5 @@
 # Already we did run instruction just Refere here
 
 FROM run:1.0
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx", "-g", "daemon off;"] 
+# Above is Executable Format
